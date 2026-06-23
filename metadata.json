@@ -1,0 +1,6 @@
+{
+  "name": "NothinG",
+  "description": "Professional Game Booster focused on improving gaming performance, reducing lag, optimizing network stability, and maximizing device efficiency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
